@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://PaddockInsight.com</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+    </url>
+
+    <url>
+        <loc>https://PaddockInsight.com/post/20190713001/</loc>
+        <lastmod>2019-07-13T08:44:29.200Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    
+        <image:image>
+        
+            <image:loc>https://i.loli.net/2019/07/13/5d297c87e6c1728781.jpg</image:loc>
+        
+        </image:image>
+    
+    
+    </url>
+
+    <url>
+        <loc>https://PaddockInsight.com/post/20190708001/</loc>
+        <lastmod>2019-07-13T06:30:37.025Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    
+        <image:image>
+        
+            <image:loc>https://i.loli.net/2019/07/11/5d26dfca727bd97535.jpg</image:loc>
+        
+        </image:image>
+    
+    
+    </url>
+
+</urlset>
+<!-- XML Sitemap -->
+

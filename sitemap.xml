@@ -1,46 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://PaddockInsight.com/post/20190713001/</loc>
-    
-    <lastmod>2019-07-13T08:44:29.200Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://PaddockInsight.com/about/index.html</loc>
-    
-    <lastmod>2019-07-13T08:06:53.871Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://PaddockInsight.com/post/20190708001/</loc>
-    
-    <lastmod>2019-07-13T06:30:37.025Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://PaddockInsight.com/privacy/index.html</loc>
-    
-    <lastmod>2019-07-13T03:49:45.388Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://PaddockInsight.com/tags/index.html</loc>
-    
-    <lastmod>2019-07-12T03:33:45.946Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://PaddockInsight.com/search/index.html</loc>
-    
-    <lastmod>2019-07-12T02:46:50.981Z</lastmod>
-    
-  </url>
-  
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    <sitemap>
+        <loc>https://PaddockInsight.com/post-sitemap.xml</loc>
+        <lastmod>2019-07-13T08:44:29.200Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://PaddockInsight.com/page-sitemap.xml</loc>
+        <lastmod>2019-07-13T08:06:53.871Z</lastmod>
+    </sitemap>
+
+    <sitemap>
+        <loc>https://PaddockInsight.com/tag-sitemap.xml</loc>
+        <lastmod>2019-07-13T08:44:29.200Z</lastmod>
+    </sitemap>
+
+</sitemapindex>
+<!-- XML Sitemap -->
+
