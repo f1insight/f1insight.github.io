@@ -45,56 +45,14 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/tags/endplate/</loc>
-        <lastmod>2019-07-22T03:28:25.203Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://PaddockInsight.com/tags/front-wing/</loc>
-        <lastmod>2019-07-22T03:28:25.203Z</lastmod>
+        <loc>https://PaddockInsight.com/tags/mirror/</loc>
+        <lastmod>2019-07-13T08:44:29.200Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
 
     <url>
         <loc>https://PaddockInsight.com/tags/analysis/</loc>
-        <lastmod>2019-07-22T03:28:25.203Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://PaddockInsight.com/tags/Mercedes/</loc>
-        <lastmod>2019-07-22T03:28:25.203Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://PaddockInsight.com/tags/car/</loc>
-        <lastmod>2019-07-22T03:28:25.203Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://PaddockInsight.com/tags/aerodynamic/</loc>
-        <lastmod>2019-07-22T03:28:25.203Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://PaddockInsight.com/tags/technology/</loc>
-        <lastmod>2019-07-22T03:28:25.203Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://PaddockInsight.com/tags/mirror/</loc>
         <lastmod>2019-07-13T08:44:29.200Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -115,6 +73,13 @@
     </url>
 
     <url>
+        <loc>https://PaddockInsight.com/tags/Mercedes/</loc>
+        <lastmod>2019-07-13T08:44:29.200Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
         <loc>https://PaddockInsight.com/tags/Mclaren/</loc>
         <lastmod>2019-07-13T08:44:29.200Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -123,6 +88,27 @@
 
     <url>
         <loc>https://PaddockInsight.com/tags/Ferrari/</loc>
+        <lastmod>2019-07-13T08:44:29.200Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://PaddockInsight.com/tags/car/</loc>
+        <lastmod>2019-07-13T08:44:29.200Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://PaddockInsight.com/tags/aerodynamic/</loc>
+        <lastmod>2019-07-13T08:44:29.200Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://PaddockInsight.com/tags/technology/</loc>
         <lastmod>2019-07-13T08:44:29.200Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
