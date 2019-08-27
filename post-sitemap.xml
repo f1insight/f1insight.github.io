@@ -8,6 +8,21 @@
     </url>
 
     <url>
+        <loc>https://PaddockInsight.com/post/20190708001/</loc>
+        <lastmod>2019-08-27T13:50:24.756Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1</priority>
+    
+        <image:image>
+        
+            <image:loc>https://i.loli.net/2019/08/27/2Btq9MNQOJvbGha.jpg</image:loc>
+        
+        </image:image>
+    
+    
+    </url>
+
+    <url>
         <loc>https://PaddockInsight.com/post/20190826001/</loc>
         <lastmod>2019-08-27T07:23:55.052Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,21 +31,6 @@
         <image:image>
         
             <image:loc>https://i.loli.net/2019/08/27/AnKcXR28M1T95wb.jpg</image:loc>
-        
-        </image:image>
-    
-    
-    </url>
-
-    <url>
-        <loc>https://PaddockInsight.com/post/20190708001/</loc>
-        <lastmod>2019-08-27T06:40:51.990Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>1</priority>
-    
-        <image:image>
-        
-            <image:loc>https://i.loli.net/2019/08/27/2Btq9MNQOJvbGha.jpg</image:loc>
         
         </image:image>
     
