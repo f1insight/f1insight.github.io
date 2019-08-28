@@ -3,6 +3,48 @@
 
 
     <url>
+        <loc>https://PaddockInsight.com/tags/Gasly/</loc>
+        <lastmod>2019-08-28T14:44:27.224Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://PaddockInsight.com/tags/Albon/</loc>
+        <lastmod>2019-08-28T14:44:27.224Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://PaddockInsight.com/tags/driver/</loc>
+        <lastmod>2019-08-28T14:44:27.224Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://PaddockInsight.com/tags/Toro-Rosso/</loc>
+        <lastmod>2019-08-28T14:44:27.224Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://PaddockInsight.com/tags/Red-Bull/</loc>
+        <lastmod>2019-08-28T14:44:27.224Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://PaddockInsight.com/tags/Ferrari/</loc>
+        <lastmod>2019-08-28T14:44:27.224Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
         <loc>https://PaddockInsight.com/tags/Austria/</loc>
         <lastmod>2019-08-27T14:08:04.197Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -11,20 +53,6 @@
 
     <url>
         <loc>https://PaddockInsight.com/tags/Verstappen/</loc>
-        <lastmod>2019-08-27T14:08:04.197Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://PaddockInsight.com/tags/driver/</loc>
-        <lastmod>2019-08-27T14:08:04.197Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://PaddockInsight.com/tags/Red-Bull/</loc>
         <lastmod>2019-08-27T14:08:04.197Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -73,13 +101,6 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/tags/Toro-Rosso/</loc>
-        <lastmod>2019-08-27T07:23:55.052Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
         <loc>https://PaddockInsight.com/tags/Mercedes/</loc>
         <lastmod>2019-08-27T07:23:55.052Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,13 +109,6 @@
 
     <url>
         <loc>https://PaddockInsight.com/tags/Racing-Point/</loc>
-        <lastmod>2019-08-27T07:23:55.052Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://PaddockInsight.com/tags/Ferrari/</loc>
         <lastmod>2019-08-27T07:23:55.052Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -124,27 +138,6 @@
     <url>
         <loc>https://PaddockInsight.com/tags/technology/</loc>
         <lastmod>2019-08-27T07:23:55.052Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://PaddockInsight.com/tags/Ferrai/</loc>
-        <lastmod>2019-08-27T06:39:48.914Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://PaddockInsight.com/tags/Gasly/</loc>
-        <lastmod>2019-08-27T06:39:48.914Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-
-    <url>
-        <loc>https://PaddockInsight.com/tags/Albon/</loc>
-        <lastmod>2019-08-27T06:39:48.914Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
     </url>
