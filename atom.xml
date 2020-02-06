@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Paddock Insight | 围场视野</title>
+  <title>Paddock Insight | 围场视野 - F1赛车新闻资讯</title>
   
-  <subtitle>F1 赛车技术与汽车文化 | Racing Car Technology</subtitle>
+  <subtitle>F1 赛车新闻、赛车技术与汽车文化 | Racing Car Technology</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://PaddockInsight.com/"/>
-  <updated>2020-02-04T07:45:18.454Z</updated>
+  <updated>2020-02-06T09:40:02.167Z</updated>
   <id>https://PaddockInsight.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>里卡多声称他不喜欢 F1 的一个特点</title>
+    <link href="https://PaddockInsight.com/post/20200206001/"/>
+    <id>https://PaddockInsight.com/post/20200206001/</id>
+    <published>2020-02-06T09:20:40.000Z</published>
+    <updated>2020-02-06T09:40:02.167Z</updated>
+    
+    <content type="html"><![CDATA[<p>丹尼尔·里卡多（Daniel Ricciardo）说他不会将他的日常工作换成其他任何东西，但是F1赛车当前有一个方面让他和许多其他人一样不喜欢。</p><a id="more"></a><p>里卡多七次获得大奖赛冠军，是 F1 赛车中最受欢迎的车手之一。</p><p>尽管在从红牛车队转投雷诺车队之后，他的排名下降到中游水平，但澳大利亚人的灿烂笑容并没有停止吸引车迷。</p><p>当他被脱口秀主持人特雷弗·诺亚（Trevor Noah）在《每日秀》（The Daily Show）上问及他的乐观心态时，他说：“我觉得，在澳大利亚的阳光下长大，会使你的性格变得比较乐观。”</p><p>“我正在做我梦寐以求的工作，这是我时刻注意的。当你变得如此有竞争力，并且被其中所吸引，以至于你确实容易忘记从另一些角度看问题。</p><p>“这是我梦寐以求的工作，就像我环游世界开车兜风一样，这真是太棒了，我是说，在赛道里面过弯就如同兜风一样。”</p><p>然而，在他对这项运动充满热情的同时，里卡多也毫不意外地抱怨了这样一个事实，那就是 F1 的结果与赛车的快慢关系太大。</p><p>他承认：“这可能是我不喜欢自己选择的职业的一点。”</p><p>“不幸的是，这不像网球，你只能怪球拍。F1 很大程度上取决于设备。但这就是 F1，你的工作是让自己成为最好的团队中的一员，从而打造最好的赛车。</p><p>“这就像是与赛车制造商的技术之战。这很疯狂，但是我想与二十名车手一起并驾齐驱，这显然将是一项成就。</p><p>“但是显然，你想成为最好的，并让自己达到赛车运动的巅峰。”</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;丹尼尔·里卡多（Daniel Ricciardo）说他不会将他的日常工作换成其他任何东西，但是F1赛车当前有一个方面让他和许多其他人一样不喜欢。&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="雷诺" scheme="https://PaddockInsight.com/tags/%E9%9B%B7%E8%AF%BA/"/>
+    
+      <category term="车手" scheme="https://PaddockInsight.com/tags/%E8%BD%A6%E6%89%8B/"/>
+    
+      <category term="新闻" scheme="https://PaddockInsight.com/tags/%E6%96%B0%E9%97%BB/"/>
+    
+      <category term="里卡多" scheme="https://PaddockInsight.com/tags/%E9%87%8C%E5%8D%A1%E5%A4%9A/"/>
+    
+  </entry>
   
   <entry>
     <title>汉密尔顿对科比逝世倍感伤心“</title>
