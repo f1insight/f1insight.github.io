@@ -2,13 +2,13 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://PaddockInsight.com</loc>
+        <loc>http://PaddockInsight.com</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20200214001/</loc>
+        <loc>http://PaddockInsight.com/post/20200214001/</loc>
         <lastmod>2020-02-14T05:09:46.599Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -23,7 +23,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20200213001/</loc>
+        <loc>http://PaddockInsight.com/post/20200213001/</loc>
         <lastmod>2020-02-13T01:41:11.183Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -38,7 +38,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20200212002/</loc>
+        <loc>http://PaddockInsight.com/post/20200212002/</loc>
         <lastmod>2020-02-12T12:29:22.283Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -53,7 +53,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20200212001/</loc>
+        <loc>http://PaddockInsight.com/post/20200212001/</loc>
         <lastmod>2020-02-12T08:27:08.293Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -68,7 +68,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20200210001/</loc>
+        <loc>http://PaddockInsight.com/post/20200210001/</loc>
         <lastmod>2020-02-11T00:49:00.074Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -83,7 +83,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20200208001/</loc>
+        <loc>http://PaddockInsight.com/post/20200208001/</loc>
         <lastmod>2020-02-08T09:31:53.770Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -98,7 +98,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20200201001/</loc>
+        <loc>http://PaddockInsight.com/post/20200201001/</loc>
         <lastmod>2020-02-07T12:24:19.705Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -113,7 +113,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20191229001/</loc>
+        <loc>http://PaddockInsight.com/post/20191229001/</loc>
         <lastmod>2020-02-07T12:24:03.531Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -128,7 +128,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20200206002/</loc>
+        <loc>http://PaddockInsight.com/post/20200206002/</loc>
         <lastmod>2020-02-07T12:23:38.327Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -143,7 +143,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20190913001/</loc>
+        <loc>http://PaddockInsight.com/post/20190913001/</loc>
         <lastmod>2020-02-07T12:23:14.996Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -158,7 +158,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20200204001/</loc>
+        <loc>http://PaddockInsight.com/post/20200204001/</loc>
         <lastmod>2020-02-07T12:22:48.891Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -173,7 +173,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20200206001/</loc>
+        <loc>http://PaddockInsight.com/post/20200206001/</loc>
         <lastmod>2020-02-07T12:22:43.540Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -188,7 +188,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20190830001/</loc>
+        <loc>http://PaddockInsight.com/post/20190830001/</loc>
         <lastmod>2020-02-07T12:22:34.354Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -203,7 +203,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20190914001/</loc>
+        <loc>http://PaddockInsight.com/post/20190914001/</loc>
         <lastmod>2020-02-07T12:22:22.231Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -218,7 +218,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20190823001/</loc>
+        <loc>http://PaddockInsight.com/post/20190823001/</loc>
         <lastmod>2019-09-13T11:31:12.923Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -233,7 +233,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20190826001/</loc>
+        <loc>http://PaddockInsight.com/post/20190826001/</loc>
         <lastmod>2019-09-13T11:30:37.962Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -248,7 +248,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20190713001/</loc>
+        <loc>http://PaddockInsight.com/post/20190713001/</loc>
         <lastmod>2019-09-13T11:28:32.891Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
@@ -263,7 +263,7 @@
     </url>
 
     <url>
-        <loc>https://PaddockInsight.com/post/20190708001/</loc>
+        <loc>http://PaddockInsight.com/post/20190708001/</loc>
         <lastmod>2019-09-13T11:03:10.401Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>

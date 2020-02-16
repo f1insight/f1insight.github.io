@@ -2,34 +2,34 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://PaddockInsight.com</loc>
+        <loc>http://PaddockInsight.com</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     
     <url>
-        <loc>https://PaddockInsight.com/privacy/</loc>
+        <loc>http://PaddockInsight.com/privacy/</loc>
         <lastmod>2020-02-10T04:03:26.646Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
     </url>
     
     <url>
-        <loc>https://PaddockInsight.com/about/</loc>
+        <loc>http://PaddockInsight.com/about/</loc>
         <lastmod>2019-10-20T14:35:01.490Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
     </url>
     
     <url>
-        <loc>https://PaddockInsight.com/tags/</loc>
+        <loc>http://PaddockInsight.com/tags/</loc>
         <lastmod>2019-07-12T03:33:45.946Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
     </url>
     
     <url>
-        <loc>https://PaddockInsight.com/search/</loc>
+        <loc>http://PaddockInsight.com/search/</loc>
         <lastmod>2019-07-12T02:46:50.981Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1</priority>
